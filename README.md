@@ -1,2 +1,2 @@
 # Flood prediction
-Regression with a flood probabilitw prediction dataset.
+Regression with a flood probability prediction dataset
